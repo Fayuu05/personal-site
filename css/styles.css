@@ -78,8 +78,8 @@ p {
 }
 .bottom-img{
   position: absolute;
-  left: 400px;
-  bottom: 200px;
+  left: 300px;
+  top: 50px;
   width: 5%;
 }
 .top-img{
